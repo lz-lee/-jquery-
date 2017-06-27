@@ -1,2 +1,2 @@
-# -jquery-
-项目中用到的jquery插件
+# jquery插件开发
+#### 项目中用到的jquery插件
